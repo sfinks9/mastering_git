@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Hello, git!
+        Hello, git! I'm in 'new-brach' right now!
       </p>
     </>
   )
