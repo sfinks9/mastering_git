@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Hello, git! I'm in 'new-brach' right now!
       </p>
+      <p>Hello git! I'm coming from 'newest-branch' that stick to 'new-branch', not 'main' branch!</p>
     </>
   )
 }
